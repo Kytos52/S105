@@ -1,0 +1,62 @@
+Contenido del directorio /home
+mario F Ultima modificación: 2022-02-09
+Contenido del directorio /home/mario
+.audacity-data D
+.bash_history D
+.bash_logout D
+.bash_profile D
+.bashrc D
+.cache D
+.config D
+.eclipse D
+.git D
+.gitconfig D
+.java D
+.kite D
+.lesshst D
+.local D
+.mozilla D
+.p2 D
+.pki D
+.python_history D
+.rest-client D
+.sonarlint D
+.sts4 D
+.swt D
+.tuxguitar-1.5.3 D
+.var D
+.vscode D
+Descargas F Ultima modificación: 2022-02-02
+Documentos F Ultima modificación: 2022-02-01
+Escritorio F Ultima modificación: 2021-11-03
+Imágenes F Ultima modificación: 2022-02-07
+Música F Ultima modificación: 2021-05-27
+Plantillas F Ultima modificación: 2021-05-25
+Público F Ultima modificación: 2021-05-25
+Reunion teams start up F Ultima modificación: 2021-12-13
+Vídeos F Ultima modificación: 2021-05-25
+eclipse F Ultima modificación: 2021-11-03
+eclipse-workspace F Ultima modificación: 2022-02-09
+git F Ultima modificación: 2021-11-11
+java F Ultima modificación: 2022-01-15
+libros musica F Ultima modificación: 2021-07-27
+Contenido del directorio /home/mario/eclipse-workspace
+.gitignore D
+.metadata D
+Animales F Ultima modificación: 2021-11-20
+Problemas1 F Ultima modificación: 2021-11-10
+S1.01.NIVELL1 F Ultima modificación: 2021-11-11
+S1.01.NIVELL2 F Ultima modificación: 2021-11-08
+TascaS03 F Ultima modificación: 2022-01-11
+TascaS101 F Ultima modificación: 2022-01-10
+TascaS102 F Ultima modificación: 2021-12-19
+TascaS103 F Ultima modificación: 2022-01-11
+TascaS104 F Ultima modificación: 2022-01-15
+TascaS105 F Ultima modificación: 2022-02-07
+TascaS106 F Ultima modificación: 2022-01-29
+TascaS107 F Ultima modificación: 2022-01-31
+Tasca_S103 F Ultima modificación: 2022-01-11
+lambdas F Ultima modificación: 2022-02-01
+pildoras F Ultima modificación: 2021-11-11
+resultado.txt F Ultima modificación: 2022-02-09
+utils F Ultima modificación: 2022-02-07
